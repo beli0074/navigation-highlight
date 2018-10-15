@@ -27,13 +27,15 @@ h2 {
   color: #b20953;
   font-family: "Sigmar One";
   font-size: 1.875rem;
-  margin: .50em;
+  margin: 0 .75em;
 }
 
-.footer {
+small {
   background-color: #ffe500;
   text-align: center;
   padding: .75em;
+  width: 100%;
+  display: block;
 }
 
 p {
@@ -77,4 +79,5 @@ nav li {
 img {
   padding: .75em;
   width: 100%;
+  display: block;
 }
